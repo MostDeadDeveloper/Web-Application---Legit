@@ -18,6 +18,13 @@ def eliminate():
 
     # kill machine
     # turn off everything
+
+    # kill machine
+    # turn off everything
+    # kill everyone and eliminate all terrorists
+    # kill machine
+    # turn off everything
+    # kill everyone and eliminate all terrorists
     # kill everyone and eliminate all terrorists
     return
 
