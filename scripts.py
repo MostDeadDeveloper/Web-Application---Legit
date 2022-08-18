@@ -6,3 +6,8 @@ for i in range(0,10):
 
 a = []
 
+    def moisture_data():
+
+        # idk fall in love probbaly with moisture data
+        return 'bruh'
+
